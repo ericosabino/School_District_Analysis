@@ -1,39 +1,33 @@
 # School_District_Analysis
 
+# Overview of the school district analysis: Explain the purpose of this analysis.
 
+## The Analysis and the change
+The initial analysis coveered the performance of the students in various dimensions. After it was discovered that the Thomas School students of the 9th grades had their scores altered, the analysis was redone by resetting scores for the 9th grade students to null.
 
-The district summary DataFrame (3 pt)
-The school summary DataFrame (3 pt)
-The top 5 performing schools, based on the overall passing rate (2 pt)
-The bottom 5 performing schools, based on the overall passing rate (2 pt)
-The average math score for each grade level from each school (3 pt)
-The average reading score for each grade level from each school (3 pt)
-7 The scores by school spending per student (3 pt)
+The new tables were generated and the comparison between previous analysis and the current one is found below.
 
-8 The scores by school size (3 pt)
+# Conclusions
 
-9 The scores by school type (3 pt)
+### How is the district summary affected?
 
+In the District summary, we see a small drop on the Average Math Score (79 to 78.9) while the Average Reading Score is the same (81.9).
 
+We can also note a slight drop on the other indicators, % Passing Math came from 75 to 74.8, while the % Passinh Math Reading went from 86 to 85.7.
+The % Overall Passing went from 65 to 64.9.
 
+Here are the tables comparing the data:
 
-#Overview of the school district analysis: Explain the purpose of this analysis.
-
-##The Analysis and the change
-The initial analysis coveered the performance of the students in various dimensions. After it was discovered that the Thomas School students had their scores altered, the analysis was redone by resetting scores for the 9th grade students to null.
-
-After that the tables was regenerated, and the comparison of the data before and after this adjustment will be shown below.
-
-#Conclusions
-
-How is the district summary affected?
-
+#### 01. Original District Summary.
 ![](Images/01_district_summary.png)
 
+#### 02. District Summary after removing Thomas School 9th grade Students.
 ![](Images/01_district_summary_new.png)
 
 
-How is the school summary affected?
+### How is the school summary affected?
+
+
 
 ![](Images/02_school_summary.png)
 
@@ -41,17 +35,17 @@ How is the school summary affected?
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-![](Images/03_top%25_schools.png)
+![](Images/03_top_5_schools.png)
 
 
 
-![](Images/03_top%25_schools_new.png)
+![](Images/03_top_5_schools_new.png)
 
-![](Images/04_bottom%25_schools.png)
+![](Images/04_bottom_5_schools.png)
 
-![](Images/04_bottom%25_schools_new.png)
+![](Images/04_bottom_5_schools_new.png)
 
-![](Images/04_general_top schools.png)
+![](Images/04_general_top_schools.png)
 
 How does replacing the ninth-grade scores affect the following:
 
