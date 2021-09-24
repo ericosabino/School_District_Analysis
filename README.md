@@ -28,68 +28,62 @@ After that the tables was regenerated, and the comparison of the data before and
 
 How is the district summary affected?
 
-![](Images/01_district_summary)
+![](Images/01_district_summary.png)
 
-![](Images/01_district_summary_new)
+![](Images/01_district_summary_new.png)
 
 
 How is the school summary affected?
 
-![](Images/02_school_summary)
+![](Images/02_school_summary.png)
 
-![](Images/02_school_summary_new)
+![](Images/02_school_summary_new.png)
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-![](Images/03_top 5_schools)
+![](Images/03_top 5_schools.png)
 
-![](Images/03_top 5_schools_new)
+![](Images/03_top 5_schools_new.png)
 
-![](Images/04_bottom 5_schools)
+![](Images/04_bottom 5_schools.png)
 
-![](Images/04_bottom 5_schools_new)
+![](Images/04_bottom 5_schools_new.png)
 
-![](Images/04_general_top schools)
+![](Images/04_general_top schools.png)
 
 How does replacing the ninth-grade scores affect the following:
 
 Math and reading scores by grade
 
-![](Images/05_math_scores_by_grade)
+![](Images/05_math_scores_by_grade.png)
 
-![](Images/05_math_scores_by_grade_new)
+![](Images/05_math_scores_by_grade_new.png)
 
-![](Images/06_reading_scores_by_grade)
+![](Images/06_reading_scores_by_grade.png)
 
-![](Images/06_reading_scores_by_grade_new)
+![](Images/06_reading_scores_by_grade_new.png)
 
 
 Scores by school spending
 
-![](Images/07_score_by_spending_ranges)
+![](Images/07_score_by_spending_ranges.png)
 
-![](Images/07_score_by_spending_ranges_new)
+![](Images/07_score_by_spending_ranges_new.png)
 
 
 Scores by school size
 
-![](Images/08_score_by_school_size)
+![](Images/08_score_by_school_size.png)
 
-![](Images/08_score_by_school_size_new)
+![](Images/08_score_by_school_size_new.png)
 
 
 
 Scores by school type
 
-![](Images/09_score_by_school_type)
+![](Images/09_score_by_school_type.png)
 
-![](Images/09_score_by_school_type_new)
+![](Images/09_score_by_school_type_new.png)
 
 
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-
-
-
-
-
